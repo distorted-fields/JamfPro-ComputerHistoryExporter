@@ -1,4 +1,4 @@
-# ComputerHistoryExporter
+# ComputerHistoryExporter Script
 
 This script leverages the Jamf Pro API to export a variety of logs that are not exportable from web UI. 
 
